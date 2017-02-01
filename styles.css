@@ -1,0 +1,8 @@
+.card {
+	border: solid 1px lightblue;
+}
+
+.title {
+	border: dotted 1px lightgrey;
+	font-weight: bold;
+}
