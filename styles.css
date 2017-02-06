@@ -1,3 +1,9 @@
+/*this sets atrributes for whole page*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
 .card {
 	
 	display: inline-block;
@@ -12,7 +18,5 @@
 }
 
 img {
-	max-width:100%;
-	max-height:100%;
-	object-fit: contain;
+	max-width: 100%;
 }
