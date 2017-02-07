@@ -13,11 +13,25 @@
 	border: solid 1px lightblue;
 }
 .title {
+	background-color: #fffff1;
 	border: dotted 1px lightgrey;
 	font-weight: bold;
+	text-align: center;
 }
 
 img {
 	max-width: 100%;
 	display: block;
+	margin: 0 auto;
+}
+
+.description {
+	text-align: justify;
+	padding: 2px;
+
+}
+
+.availibility {
+	background-color: grey;
+	color: yellow;
 }
